@@ -2,7 +2,7 @@
 module.exports = {
   content: ["./**/*.{html,js}"],
   theme: {
-    fontFamily: {
+    fontFamily:{
       'sans': ['Roboto', 'sans-serif']
     },
     extend: {
