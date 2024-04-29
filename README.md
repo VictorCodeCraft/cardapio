@@ -1,10 +1,10 @@
 <p align="center">
-  <img alt="Capa do Projeto." src=".github/logo.png" width="75%">
+  <img alt="Capa do Projeto." src=".github/Preview-4.png" width="75%">
 </p>
 
 
 <p align="center">
-Aplicação desenvolvida na Imersão Dev da Alura.
+O projeto "Santana's Grill & Burgers" é uma aplicação web desenvolvida com o objetivo de proporcionar aos clientes uma experiência simplificada de visualização do cardápio e realização de pedidos online.
 </p>
 
 <p align="center">
@@ -17,36 +17,30 @@ Aplicação desenvolvida na Imersão Dev da Alura.
 <br>
 
 <p align="center">
-  <img alt="Preview do projeto desenvolvido." src=".github/preview.png" width="75%">
+  <img alt="Preview do projeto desenvolvido." src=".github/Preview-1.png" width="75%">
+  <img alt="Preview do projeto desenvolvido." src=".github/Preview-2.png" width="75%">
+  <img alt="Preview do projeto desenvolvido." src=".github/Preview-3.png" width="75%">
 </p>
 
 ## 🌐 Projeto
 ### Intuito e Objetivo:
-- O projeto Catálogo de Filmes foi desenvolvido com o objetivo de criar uma interface web simples e atrativa para visualizar uma lista de pôsteres de filmes.
+Este projeto resolve o problema de muitos clientes que desejam fazer pedidos em uma hamburgueria de forma online, sem a necessidade de deslocamento até o estabelecimento ou realização de ligações telefônicas. Com a plataforma, os usuários podem explorar o cardápio detalhado da hamburgueria, selecionar os itens desejados e finalizar seus pedidos diretamente pela web.
 
 <br/>
 
 ## 🎯 Explicação 
 
 ### Como deve ser usado:
-  - Ao acessar a página, o usuário é recebido com o título "Catálogo de Filmes" e uma seleção de pôsteres de filmes;
-  - Os pôsteres são apresentados em uma grade de imagens, permitindo ao usuário uma visualização rápida e fácil;
-  - Ao clicar em um pôster, o usuário pode ser redirecionado para mais informações sobre o filme ou para assistir ao trailer.
-
+ Para utilizar o projeto, basta acessar o website da hamburgueria "Santana's Grill & Burgers" através de um navegador web. Na página inicial, os usuários poderão visualizar o menu completo, contendo diversas opções de hambúrgueres e bebidas. Para adicionar um item ao carrinho de compras, basta clicar no botão de adição correspondente ao produto desejado. Ao finalizar a seleção dos itens, o usuário pode clicar no botão "Veja meu carrinho", localizado no rodapé da página, para revisar o pedido e proceder com o checkout. Após preencher o endereço de entrega, o usuário pode finalizar o pedido clicando no botão "Finalizar pedido".
+ 
 <br/>
 
 ## 🚀 Tecnologias
 
-### HTML:
-  - Estruturação da página web;
-  - Definição de elementos como título, imagens e links.
-### CSS:
-  - Estilização dos elementos, incluindo cores, fontes e layout;
-  - Definição do plano de fundo e posicionamento dos elementos.
-### JS:
-  - Dinamização da página;
-  - Carregamento dinâmico dos pôsteres de filmes na página;
-  - Interação com o usuário através da criação dinâmica de elementos de imagem.
+- HTML: Linguagem de marcação para estruturação do conteúdo da página web.
+- Tailwind CSS: Framework CSS utilizado para estilização e design responsivo da interface.
+- JavaScript: Linguagem de programação utilizada para adicionar interatividade à aplicação, como a funcionalidade de adicionar itens ao carrinho de compras e finalizar pedidos.
+- Toastify.js: Biblioteca JavaScript utilizada para exibir notificações ao usuário, como mensagens de erro ou confirmação.
 
 <br/>
 
