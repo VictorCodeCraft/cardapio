@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Capa do Projeto." src=".github/Preview-4.png" width="75%">
+  <img alt="Capa do Projeto." src=".github/Preview-4.png" width="850px">
 </p>
 
 
@@ -17,9 +17,9 @@ O projeto "Santana's Grill & Burgers" é uma aplicação web desenvolvida com o 
 <br>
 
 <p align="center">
-  <img alt="Preview do projeto desenvolvido." src=".github/Preview-1.png" width="75%">
-  <img alt="Preview do projeto desenvolvido." src=".github/Preview-2.png" width="75%">
-  <img alt="Preview do projeto desenvolvido." src=".github/Preview-3.png" width="75%">
+  <img alt="Preview do projeto desenvolvido." src=".github/Preview-1.png" width="850px">
+  <img alt="Preview do projeto desenvolvido." src=".github/Preview-2.png" width="850px">
+  <img alt="Preview do projeto desenvolvido." src=".github/Preview-3.png" width="850px">
 </p>
 
 ## 🌐 Projeto
